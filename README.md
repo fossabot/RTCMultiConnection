@@ -5,7 +5,8 @@
 * [RTCMultiConnection v3 Live Demos](https://rtcmulticonnection.herokuapp.com/)
 * [RTCMultiConnection v2 Live Demos](https://www.webrtc-experiment.com/RTCMultiConnection/)
 
-[![npm](https://img.shields.io/npm/v/rtcmulticonnection-v3.svg)](https://npmjs.org/package/rtcmulticonnection-v3) [![downloads](https://img.shields.io/npm/dm/rtcmulticonnection-v3.svg)](https://npmjs.org/package/rtcmulticonnection-v3) [![Build Status: Linux](https://travis-ci.org/muaz-khan/RTCMultiConnection.png?branch=master)](https://travis-ci.org/muaz-khan/RTCMultiConnection)
+[![npm](https://img.shields.io/npm/v/rtcmulticonnection-v3.svg)](https://npmjs.org/package/rtcmulticonnection-v3) [![downloads](https://img.shields.io/npm/dm/rtcmulticonnection-v3.svg)](https://npmjs.org/package/rtcmulticonnection-v3) [![Build Status: Linux](https://travis-ci.org/muaz-khan/RTCMultiConnection.png?branch=master)](https://travis-ci.org/muaz-khan/RTCMultiConnection)[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcococherry%2FRTCMultiConnection.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcococherry%2FRTCMultiConnection?ref=badge_shield)
+
 
 > v3 has its own built-in socket.io server. It has pubnub/firebase demos as well; however [reliable-signaler](https://github.com/muaz-khan/Reliable-Signaler/tree/master/rtcmulticonnection-client) or [socketio-over-nodejs](https://github.com/muaz-khan/WebRTC-Experiment/tree/master/socketio-over-nodejs) or similar codes can NOT be used with v3. Please use [`Signaling-Server.js`](https://github.com/muaz-khan/RTCMultiConnection/blob/master/Signaling-Server.js) instead.
 >
@@ -158,3 +159,6 @@ RTCMultiConnection-v2 (old) videos: https://vimeo.com/muazkh
 ## License
 
 [RTCMultiConnection](https://github.com/muaz-khan/RTCMultiConnection) is released under [MIT licence](https://github.com/muaz-khan/RTCMultiConnection/blob/master/LICENSE.md) . Copyright (c) [Muaz Khan](http://www.MuazKhan.com/).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcococherry%2FRTCMultiConnection.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcococherry%2FRTCMultiConnection?ref=badge_large)
